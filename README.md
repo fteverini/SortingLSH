@@ -1,0 +1,1 @@
+Sort binary digits in a way we contiguous digits differ from only one digit. Equivalent to travelling through the unit hypercube of dimension d through edges passing one unique time into each vertex. 
